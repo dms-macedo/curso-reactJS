@@ -1,0 +1,18 @@
+// Passo a Passo, criar projeto Vite + ReactJS
+    - Entre no terminal e digite: npm create vite@5.5.2
+        - Coloque o nome de seu projeto vite quando o console pedir.
+        - Logo após, selecione React usando as setas do teclado para criamos nosso projeto React.
+        - Selecione logo depois, JavaScript, para ser um projeto JavaScript.
+    - Após criado o projeto, o vite vai te pedir para você dar 3 comandos no terminal:
+        - cd nome-do-seu-projeto: vai colocar seu console dentro da pasta do seu projeto que o Vite criou.
+        - npm install: vai instalar tudo necessário para rodar os projetos.
+        - npm run dev: inicia o projeto Vite em um servidor local (localhost)
+
+// Mapa:
+    1 - npm create vite@5.5.2
+        1 - Nome projeto
+        2 - Selecione React (com as setas do teclado)
+        3 - Selecione JavaScript (com as setas do teclado)
+    2 - cd nome-projeto
+    3 - npm install
+    4 - npm run dev
