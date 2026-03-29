@@ -16,3 +16,10 @@
     2 - cd nome-projeto
     3 - npm install
     4 - npm run dev
+
+//SPA - Simples Page Application
+    - Contém apenas um html sem conteúdo, e o conteúdo é gerado por meio do JavaScript. (React)
+    - Vantagens: 
+        -> Velocidade: Navegação entre páginas é muito mais rápido, pois não exige chamadas para o servidor
+        -> Experiência de Usuário: SPAs são altamente interativas e performáticas
+        
